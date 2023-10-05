@@ -22,6 +22,7 @@ public class Variable {
         int aPrimitiveVariable = 42;
         String aReferenceVariable = "42";
 
+        aReferenceVariable="ciao";
         System.out.println(aReferenceVariable);
         System.out.println(aPrimitiveVariable);
 
